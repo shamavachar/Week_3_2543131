@@ -1,0 +1,17 @@
+# Database Configuration
+config.php
+credentials.json
+
+# Web Server files
+.htaccess
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+
+# Temporary files
+*.log
+*.tmp
